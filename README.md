@@ -4,6 +4,15 @@ Short product summaries of the projects I've built. Each entry covers what it is
 
 ## Projects
 
+### Herb
+
+- **What it is:** I built an AI recipe generator that turns ingredients you already have into three original recipes with photos and shareable pages.
+- **Problem it solves:** Recipe sites expect you to start from a dish or know what you want to make, so a half-full fridge turns into the same few meals. [VERIFY] Herb starts from what is on hand.
+Who it's for: Intermediate home cooks who want ideas beyond their usual rotation without creating an account first.
+Stack: Next.js, TypeScript, Tailwind CSS, OpenAI, Clerk, Neon Postgres
+Live: https://cookwithherb.com
+Contributions: 348 commits
+
 ### ESPN Drop Bot
 
 - **What it is:** I built a small Python service that watches a fantasy baseball league's transactions and posts a Discord alert when a player is dropped.
