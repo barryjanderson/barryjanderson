@@ -19,7 +19,7 @@ Here's a list of side projects I've worked on with the help of Cursor, Claude, M
 - **Problem it solves:** My wife used to mark off which ornaments we owned on a series of printed sheets as there was no way to track ownership on the Old World Christmas site. We often misplaced these sheets and had to manually update them when we got an ornament from a new collection. I replaced the paper with a persistent, image-led inventory can be updated anywhere.  Our friends and family can now see our collection online so they know which ornaments we already own when giving one as a gift.
 - **Who it's for:** My wife, mainly; but anyone who collects Old World Christmas ornaments, and the friends and family members who buy them gifts.
 - **Stack:** Next.js, TypeScript, Clerk, Neon Postgres, PostHog, Vercel
-- **Check it out here**: https://myoldworld.com
+- **Check it out here**: https://myoldworldcollection.com
 - **Contributions:** 38 commits
 
 ### ESPN Drop Bot
