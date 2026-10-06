@@ -1,6 +1,6 @@
 # Barry Anderson
 
-Short product summaries of the projects I've built. Each entry covers what it is, the problem it solves, and who it's for. 
+Here's a list of side projects I've worked on with the help of Cursor, Claude, Magic Patterns, and a handful of other AI tools.  All exist in my github repo and commit counts are as of 10/1/20206.
 
 ## Projects
 
