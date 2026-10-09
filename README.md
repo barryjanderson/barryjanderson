@@ -1,6 +1,6 @@
 # Barry Anderson
 
-Some side projects I've worked on with the help of Cursor, Claude, Codex, Magic Patterns, Google Stitch, and a handful of other AI tools.  Commit counts are as of 10/1/20206.
+Some side projects I've worked on with the help of Cursor, Claude, Codex, Magic Patterns, Google Stitch, and a handful of other AI tools.
 
 ## Projects
 
